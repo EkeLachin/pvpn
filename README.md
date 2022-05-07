@@ -12,8 +12,7 @@
     
   <a href="https://chat.whatsapp.com/BqwU4hCuq0d3AOTerPVatJ"><img src="https://telegra.ph/file/8f2036e27de3890f74914.png" />
 </p>
-        
-    ----------    
+    
     
 
         
