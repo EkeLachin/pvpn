@@ -14,10 +14,10 @@
 </p>
     
     
-
-        
+       
 ## `ALTERNATİF İNDİRME SEÇENEKLERİ`
         
- 1= https://psiphon.softonic.com.tr/
- 1= DİREKT İNDİR = https://psiphon.softonic.com.tr/download
  
+
+1= https://psiphon.softonic.com.tr/
+1= DİREKT İNDİR = https://psiphon.softonic.com.tr/download
